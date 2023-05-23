@@ -1,5 +1,5 @@
 # 💫 About Me:
--I'm currently working in my own projects<br>- Backend Developer<br>- Always looking for opportunities to collaborate with other developers<br>- Learning HTML and CSS<br>- I'm looking for team working
+-I'm currently working in my own projects<br>- Python Backend Developer<br>- Always looking for opportunities to collaborate with other developers<br>- Learning HTML and CSS<br>- I'm looking for team working
 
 
 ## 🌐 Socials:
