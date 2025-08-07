@@ -1,23 +1,46 @@
-# 💫 About Me:
--I'm currently working in my own projects<br>- Python Backend Developer<br>- Always looking for opportunities to collaborate with other developers<br>- FrontEnd Developer<br>- I'm looking for team working
+# 👨‍💻 Camilo Cuartas – Web Developer
 
-https://camilo-cloud.github.io/encriptador/
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/camilo-cuartas-dev/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=camilo-cloud&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=camilo-cloud&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=camilo-cloud&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Frontend developer specialized in **React.js**, focused on building clean, responsive, and accessible user interfaces. Currently working on personal projects while actively looking for remote opportunities to contribute and grow professionally.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=camilo-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📁 Featured Project
+
+### 🪑 Handmade Furniture Page  
+Responsive React website for a handmade furniture store.  
+🔗 [Live Demo](https://camilo-cloud.github.io/pagina-muebles/)  
+📦 [Repository](https://github.com/camilo-cloud/pagina-muebles)
+
+---
+
+## 🧠 Currently Learning
+
+- TypeScript  
+- Testing (Jest, React Testing Library)  
+- Web Accessibility (WAI-ARIA)  
+- GitHub Actions
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-cuartas-dev/)
+
+---
+
+## 📊 GitHub Stats
+
+![Camilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilo-cloud&theme=tokyonight&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilo-cloud&layout=compact&theme=tokyonight&hide_border=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=camilo-cloud&theme=tokyonight&hide_border=false)
