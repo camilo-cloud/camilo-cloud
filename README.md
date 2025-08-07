@@ -33,6 +33,14 @@ Responsive React website for a handmade furniture store.
 
 ---
 
+## 🧪 Freelance QA Experience
+
+Over 10 years of freelance experience performing **manual website testing** for Rainforest QA.  
+Completed **thousands** of UI-based test tasks involving step-by-step validations across different platforms and browsers.  
+This work helped sharpen my attention to detail and understanding of UX flows and usability patterns.
+
+---
+
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-cuartas-dev/)
@@ -41,6 +49,6 @@ Responsive React website for a handmade furniture store.
 
 ## 📊 GitHub Stats
 
-![Camilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilo-cloud&theme=tokyonight&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilo-cloud&layout=compact&theme=tokyonight&hide_border=false)
+![Camilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilo-cloud&theme=tokyonight&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilo-cloud&layout=compact&theme=tokyonight&hide_border=false)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=camilo-cloud&theme=tokyonight&hide_border=false)
