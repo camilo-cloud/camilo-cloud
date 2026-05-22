@@ -1,53 +1,58 @@
-# 👨‍💻 Camilo Cuartas – Frontend Developer
+# 🧪 Camilo Cuartas – Manual QA Tester
 
-Frontend developer specialized in **React.js**, focused on building clean, responsive, and accessible user interfaces. I'm passionate about turning ideas into functional and engaging web experiences.
+Manual QA Tester with 10+ years of experience testing web and mobile applications for international clients in fully remote environments. I specialize in finding what breaks, documenting it clearly, and helping teams ship better products.
 
-- 🔭 Actively looking for remote opportunities to contribute and grow professionally.
-- ✨ Check out my full portfolio: **[portfolio-pink-pi.vercel.app](https://portfolio-pink-pi.vercel.app/)**
-
----
-
-## 🚀 Featured Project
-
-### 🛒 MiniMarket - React E-commerce Simulation
-My most comprehensive project: a complete front-end simulation of an online minimarket. It features a dynamic shopping cart, state persistence using `localStorage`, and a fully responsive design built from scratch.
-
-🔗 **[Live Demo](https://mini-market-eosin.vercel.app/)**  
-📦 **[Repository](https://github.com/camilo-cloud/MiniMarket)**
+- 🔭 Open to remote QA opportunities — full-time or freelance.
+- 🌍 Based in Colombia | Working in English
+- 🔗 Portfolio & QA docs: **[portfolio-pink-pi.vercel.app](https://portfolio-pink-pi.vercel.app/)**
 
 ---
 
-## 💻 Other Projects
+## 🛠️ What I Do
 
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **Personal Portfolio** | My professional portfolio, built with React and Vite to showcase my skills and work. | [Live](https://portfolio-pink-pi.vercel.app/) / [Repo](https://github.com/camilo-cloud/Portfolio) |
-| **MuebleArte** | A responsive landing page for a handmade furniture e-commerce store. | [Live](https://camilo-cloud.github.io/pagina-muebles/) / [Repo](https://github.com/camilo-cloud/pagina-muebles) |
-
-
----
-
-## 🛠️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Area | Details |
+| :--- | :--- |
+| **Manual Testing** | Functional, regression, exploratory, smoke, sanity |
+| **Platform Coverage** | Web (desktop + mobile), cross-browser, responsive |
+| **Bug Reporting** | 8,000+ bugs reported with steps to reproduce, expected vs. actual, severity & priority |
+| **QA Docs** | Test cases, test plans, bug reports, acceptance criteria |
+| **Tools** | Jira, spreadsheet-based QA tracking, remote async workflows |
+| **AI Evaluation** | Ad relevance analysis, data annotation, content quality review (TELUS Digital, Appen) |
+| **Tech Knowledge** | HTML, CSS, JavaScript, React — supports UI validation and frontend analysis |
 
 ---
 
-## 🧪 Freelance QA Experience
+## 📂 QA Portfolio
 
-Over 10 years of freelance experience performing **manual website testing** for Rainforest QA.  
-Completed **thousands** of UI-based test tasks involving step-by-step validations across different platforms and browsers.  
-This work helped sharpen my attention to detail and understanding of UX flows and usability patterns.
+### 🧾 Test Cases – E-commerce Flow
+Structured test cases I designed and executed covering real e-commerce scenarios:
+- User registration & authentication
+- Product browsing & search
+- Cart management & checkout
+
+Includes: acceptance criteria, bug reports with full reproduction steps, severity classification, and requirement ambiguity documentation.
+
+📄 **[View Test Cases Sample (Excel)](https://github.com/camilo-cloud/YOUR-REPO-LINK)**
 
 ---
 
-## 📫 Contact
+## 💼 Experience Highlights
+
+**Rainforest QA** — Freelance QA Tester | Remote | 2015 – Present  
+10+ years executing manual test cases across web and mobile apps for international clients. Reported 8,000+ bugs. Functional, regression, exploratory, smoke, responsive, and cross-browser testing.
+
+**uTest** — Freelance Tester | Remote | 2026  
+Crowdsourced testing for web and mobile. Structured bug reporting following platform standards.
+
+**TELUS Digital** — AI Quality Evaluator | Remote | 2025 – Present  
+Evaluated Google and YouTube ad relevance based on search intent and platform guidelines.
+
+**Appen** — AI Data Annotation & Content Evaluation | Remote | 2024 – Present  
+Text, image, and audio annotation for AI training datasets. Accuracy-focused remote workflows.
+
+---
+
+## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-cuartas-dev/)
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pink-pi.vercel.app/)
